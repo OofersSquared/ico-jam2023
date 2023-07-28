@@ -385,6 +385,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2024403826}
+  - component: {fileID: 2024403829}
   - component: {fileID: 2024403828}
   - component: {fileID: 2024403827}
   m_Layer: 5
@@ -511,3 +512,17 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2024403825}
   m_CullTransparentMesh: 1
+--- !u!114 &2024403829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2024403825}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2f39ebb2b0445f45ac89a511356bde7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  easingType: 27
+  animationDuration: 0.1
