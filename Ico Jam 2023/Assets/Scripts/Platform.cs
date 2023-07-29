@@ -33,6 +33,11 @@ public class Platform : MonoBehaviour
         Timer.instance.onTimerEnd += OnTimerEnd;
     }
 
+    private void OnDestroy()
+    {
+        Timer.instance.onTimerEnd -= OnTimerEnd;
+    }
+
     private void OnTimerEnd()
     {
         switch (platformType)
