@@ -19,18 +19,15 @@ public class Platform : MonoBehaviour
     [SerializeField] private Ease moveEase;
     
     private Collider2D _collision;
-    private Image _image;
-    private RectTransform _rectTransform;
-
+    private SpriteRenderer _spriteRenderer;
     private bool _isOnX = true;
 
     private void Start()
     {
         _collision = GetComponent<Collider2D>();
-        _image = GetComponent<Image>();
-        _rectTransform = GetComponent<RectTransform>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
         if (platformType == PlatformType.Moving)
-            _rectTransform.DOAnchorPosX(target.x, 0f);
+            transform.DOLocalMoveX(target.x, 0f);
         Timer.instance.onTimerEnd += OnTimerEnd;
     }
 
@@ -45,17 +42,17 @@ public class Platform : MonoBehaviour
         {
             case PlatformType.Intangibility:
                 _collision.enabled = !_collision.enabled;
-                _image.sprite = _image.sprite == activeSprite ? deActiveSprite : activeSprite;
+                _spriteRenderer.sprite = _spriteRenderer.sprite == activeSprite ? deActiveSprite : activeSprite;
                 break;
             case PlatformType.Moving:
                 if (_isOnX)
                 {
-                    _rectTransform.DOAnchorPosX(target.y, moveDuration).SetEase(moveEase);
+                    transform.DOLocalMoveX(target.y, moveDuration).SetEase(moveEase);
                     _isOnX = false;
                 }
                 else
                 {
-                    _rectTransform.DOAnchorPosX(target.x, moveDuration).SetEase(moveEase);
+                    transform.DOLocalMoveX(target.x, moveDuration).SetEase(moveEase);
                     _isOnX = true;
                 }
 
