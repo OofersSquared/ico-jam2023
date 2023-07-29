@@ -1,11 +1,14 @@
+using System;
 using DG.Tweening;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Timer : MonoBehaviour
 {
     public static Timer instance;
     
+    public event Action onTimerEnd;
     public float GetValue => _timer;
     
     [SerializeField] private Ease easingType;
@@ -24,8 +27,14 @@ public class Timer : MonoBehaviour
     private void Update()
     {
         _timer -= Time.deltaTime;
-        if (_timer <= -1f)
+        // if (_timer <= -1f)
+        //     _timer = 3f;
+        if (_timer <= 0)
+        {
             _timer = 3f;
+            onTimerEnd?.Invoke();
+        }
+
         if(Mathf.CeilToInt(_timer).ToString() != _text.text && !_isAnimating)
             Next();
     }
