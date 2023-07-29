@@ -12,6 +12,8 @@ public enum PlatformType
 public class Platform : MonoBehaviour
 {
     [SerializeField] private PlatformType platformType;
+    [SerializeField] private Sprite activeSprite;
+    [SerializeField] private Sprite deActiveSprite;
     [SerializeField] private Vector2 target;
     [SerializeField] private float moveDuration;
     [SerializeField] private Ease moveEase;
@@ -27,7 +29,6 @@ public class Platform : MonoBehaviour
         _collision = GetComponent<Collider2D>();
         _image = GetComponent<Image>();
         _rectTransform = GetComponent<RectTransform>();
-        _image.color = new Color(1f, 1f, 1f, 1f);
         if (platformType == PlatformType.Moving)
             _rectTransform.DOAnchorPosX(target.x, 0f);
         Timer.instance.onTimerEnd += OnTimerEnd;
@@ -44,10 +45,7 @@ public class Platform : MonoBehaviour
         {
             case PlatformType.Intangibility:
                 _collision.enabled = !_collision.enabled;
-                if (_image.color.a == 1f)
-                    _image.DOColor(new Color(1f, 1f, 1f, 0.5f), 0f);
-                else
-                    _image.DOColor(new Color(1f, 1f, 1f, 1f), 0f);
+                _image.sprite = _image.sprite == activeSprite ? deActiveSprite : activeSprite;
                 break;
             case PlatformType.Moving:
                 if (_isOnX)

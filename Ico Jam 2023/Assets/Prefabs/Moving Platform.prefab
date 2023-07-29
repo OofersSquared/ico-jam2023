@@ -53,6 +53,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   platformType: 1
+  activeSprite: {fileID: 0}
+  deActiveSprite: {fileID: 0}
   target: {x: -725, y: 725}
   moveDuration: 0.25
   moveEase: 27
@@ -84,8 +86,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3ae4f9191dd0570408a257e249557379, type: 3}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: cda5ca128bf291a41b97d5cae92fc804, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -93,7 +95,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 5
+  m_PixelsPerUnitMultiplier: 1
 --- !u!61 &4685224298293837470
 BoxCollider2D:
   m_ObjectHideFlags: 0
