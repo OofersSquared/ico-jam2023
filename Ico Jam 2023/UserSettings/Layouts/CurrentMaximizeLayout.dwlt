@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 1024
+  controlID: 10231
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 1025
+  controlID: 10207
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 1026
+  controlID: 10208
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,10 +223,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b06e0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 78e7ffffd6e9ffffc6edffff52eeffff84f0ffffa6f4ffff28fbffff
+      scrollPos: {x: 0, y: 240}
+      m_SelectedIDs: e498000096990000ce9800007a9900004c9800004a990000f4990000ae99000064980000b698000026990000a2990000aa980000c69900000e99000040980000
+      m_LastClickedID: 38976
+      m_ExpandedIDs: 78e7ffffd6e9ffffc6edffff52eeffff84f0ffffa6f4ffff28fbfffff297000094980000009a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -672,21 +672,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Sprites
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Sprites
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Dev\Github Repos\Ico Jam 2023\Ico Jam 2023
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a26e0000
-    m_LastClickedID: 28322
+    m_SelectedIDs: a86e0000
+    m_LastClickedID: 28328
     m_ExpandedIDs: 00000000946e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -740,9 +740,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: b06e0000
-    m_LastClickedInstanceID: 28336
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: e498000096990000ce9800007a9900004c9800004a990000f4990000ae99000064980000b698000026990000a2990000aa980000c69900000e99000040980000
+    m_LastClickedInstanceID: 39140
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

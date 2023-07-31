@@ -252,9 +252,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &67700563
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -372,9 +374,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &175336029
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -492,9 +496,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: d6c3b498277a172499e16ac363261aac, type: 3}
   - {fileID: 21300000, guid: 00f81e5e579dc8543bbb782aaa402636, type: 3}
+  - {fileID: 21300000, guid: d6c3b498277a172499e16ac363261aac, type: 3}
+  - {fileID: 21300000, guid: 5ce0c8e8376f2104f9283c89943d2592, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &181028938
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -612,9 +618,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &182998082
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -732,9 +740,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: d6c3b498277a172499e16ac363261aac, type: 3}
   - {fileID: 21300000, guid: 00f81e5e579dc8543bbb782aaa402636, type: 3}
+  - {fileID: 21300000, guid: d6c3b498277a172499e16ac363261aac, type: 3}
+  - {fileID: 21300000, guid: 5ce0c8e8376f2104f9283c89943d2592, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &196918239
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -855,7 +865,9 @@ MonoBehaviour:
   spritesAnimationList:
   - {fileID: 21300000, guid: 492a01c2c9ce7674e82151bd7f734153, type: 3}
   - {fileID: 21300000, guid: 51bfdace02dabe04d85a348e0b2a1541, type: 3}
+  - {fileID: 21300000, guid: 816a93b2a0f740b48a0465904bfd4ff5, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!50 &207599190
 Rigidbody2D:
   serializedVersion: 4
@@ -994,9 +1006,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &291170810
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1114,9 +1128,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &345526993
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1234,9 +1250,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &364482064
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1354,9 +1372,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &406457167
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1474,9 +1494,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &525096842
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1594,9 +1616,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &562151986
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1714,9 +1738,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &578946753
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1939,9 +1965,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &698448372
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2059,9 +2087,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &725637172
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2179,9 +2209,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &823311468
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2299,9 +2331,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &835891640
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2419,9 +2453,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &858112832
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2657,9 +2693,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &981499104
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2686,6 +2724,11 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 108, y: 108}
   m_EdgeRadius: 0
+--- !u!1 &1020587160 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4685224298293837467, guid: 27f0fc019cbd09e499c2e185cea72b6d, type: 3}
+  m_PrefabInstance: {fileID: 4685224299933222539}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1053044925
 GameObject:
   m_ObjectHideFlags: 0
@@ -2826,9 +2869,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: d6c3b498277a172499e16ac363261aac, type: 3}
   - {fileID: 21300000, guid: 00f81e5e579dc8543bbb782aaa402636, type: 3}
+  - {fileID: 21300000, guid: d6c3b498277a172499e16ac363261aac, type: 3}
+  - {fileID: 21300000, guid: 5ce0c8e8376f2104f9283c89943d2592, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &1128348951
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2946,9 +2991,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: d6c3b498277a172499e16ac363261aac, type: 3}
   - {fileID: 21300000, guid: 00f81e5e579dc8543bbb782aaa402636, type: 3}
+  - {fileID: 21300000, guid: d6c3b498277a172499e16ac363261aac, type: 3}
+  - {fileID: 21300000, guid: 5ce0c8e8376f2104f9283c89943d2592, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &1177705837
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3066,9 +3113,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &1206682860
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3186,9 +3235,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &1274632687
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3306,9 +3357,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &1325101839
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3426,9 +3479,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &1522226193
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3546,9 +3601,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &1544504404
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3666,9 +3723,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &1546674784
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3786,9 +3845,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &1552701932
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3906,9 +3967,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &1563975730
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4029,6 +4092,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &1583385959
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4146,9 +4210,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &1666570194
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4410,9 +4476,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &1826119107
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4530,9 +4598,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &1829968376
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4650,9 +4720,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &1838372164
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4770,9 +4842,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &1858775810
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4890,9 +4964,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &1896993015
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5010,9 +5086,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &1971611105
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5130,9 +5208,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
   - {fileID: 21300000, guid: 424b7ca18fcad0248ae4d26630ae0baf, type: 3}
+  - {fileID: 21300000, guid: e6bd1618215e2e743bc736b72285dfff, type: 3}
+  - {fileID: 21300000, guid: 607ebc3424926244eadee8f5deb6f4b2, type: 3}
   speed: 9
+  usingSpriteRenderer: 0
 --- !u!61 &2021074161
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5400,9 +5480,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spritesAnimationList:
-  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
   - {fileID: 21300000, guid: 01a2a9b0f4f58ff44b3d2ed9b0262ea9, type: 3}
+  - {fileID: 21300000, guid: 9f482172b7504974e812d6502f4b602a, type: 3}
+  - {fileID: 21300000, guid: fe3542f4ccd6a7344a97d40146eeb1b8, type: 3}
   speed: 10
+  usingSpriteRenderer: 0
 --- !u!61 &2028279977
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5518,6 +5600,22 @@ PrefabInstance:
       propertyPath: platform
       value: 
       objectReference: {fileID: 5790517842154798215}
+    - target: {fileID: 3370162871191281146, guid: efba4cf43fc28ec47b1884520d204d6d, type: 3}
+      propertyPath: upSpritesList.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3370162871191281146, guid: efba4cf43fc28ec47b1884520d204d6d, type: 3}
+      propertyPath: downSpritesList.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3370162871191281146, guid: efba4cf43fc28ec47b1884520d204d6d, type: 3}
+      propertyPath: upSpritesList.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: 7d1360fd67e742a49b10997b34025d37, type: 3}
+    - target: {fileID: 3370162871191281146, guid: efba4cf43fc28ec47b1884520d204d6d, type: 3}
+      propertyPath: downSpritesList.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: 65fc4ac935d84c340a4e92d84a916798, type: 3}
     - target: {fileID: 6176672387779229150, guid: efba4cf43fc28ec47b1884520d204d6d, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -5671,6 +5769,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5019973010204940996, guid: 27f0fc019cbd09e499c2e185cea72b6d, type: 3}
   m_PrefabInstance: {fileID: 4685224299933222539}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &4685224299933222544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1020587160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f9d7e3962eb0974fb4eff313af2201d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spritesAnimationList:
+  - {fileID: 21300000, guid: 290558330cc44634c888080c457f57fd, type: 3}
+  - {fileID: 21300000, guid: fd945d43e7195ad43a7da0dfec73934d, type: 3}
+  - {fileID: 21300000, guid: 15db13c0243f7fc4e82b9959b476f49a, type: 3}
+  speed: 9
+  usingSpriteRenderer: 1
 --- !u!1 &5790517842154798215 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3782399341265232728, guid: 5fb1ab7aabefb434f8fe5ccd5a0d2ce0, type: 3}
@@ -5687,6 +5803,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: Intangilbe Platform
       objectReference: {fileID: 0}
+    - target: {fileID: 3782399341265232732, guid: 5fb1ab7aabefb434f8fe5ccd5a0d2ce0, type: 3}
+      propertyPath: activeSpritesList.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3782399341265232732, guid: 5fb1ab7aabefb434f8fe5ccd5a0d2ce0, type: 3}
+      propertyPath: deActiveSpritesList.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3782399341265232732, guid: 5fb1ab7aabefb434f8fe5ccd5a0d2ce0, type: 3}
+      propertyPath: activeSpritesList.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: 31553d3fd3fdc114fa36ce3a0ce5baa4, type: 3}
+    - target: {fileID: 3782399341265232732, guid: 5fb1ab7aabefb434f8fe5ccd5a0d2ce0, type: 3}
+      propertyPath: activeSpritesList.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: 0127fa333d654ed44936226a2ab04cbd, type: 3}
+    - target: {fileID: 3782399341265232732, guid: 5fb1ab7aabefb434f8fe5ccd5a0d2ce0, type: 3}
+      propertyPath: activeSpritesList.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: 1fc4d8885c3a91641bb06913ead33045, type: 3}
+    - target: {fileID: 3782399341265232732, guid: 5fb1ab7aabefb434f8fe5ccd5a0d2ce0, type: 3}
+      propertyPath: deActiveSpritesList.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: d578ad4a21c5e8f46838661cab4f9613, type: 3}
+    - target: {fileID: 3782399341265232732, guid: 5fb1ab7aabefb434f8fe5ccd5a0d2ce0, type: 3}
+      propertyPath: deActiveSpritesList.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: 1d1c02a482c318a488a67516f251752b, type: 3}
     - target: {fileID: 8656951822503651327, guid: 5fb1ab7aabefb434f8fe5ccd5a0d2ce0, type: 3}
       propertyPath: m_RootOrder
       value: 1
