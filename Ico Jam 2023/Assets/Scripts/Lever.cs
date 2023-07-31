@@ -31,7 +31,7 @@ public class Lever : MonoBehaviour, IPointerDownHandler
             _index++;
             if (_index >= spritesAnimationList.Count)
                 _index = 0;
-            _timer = 1f / speed;
+            _timer = 1f / Random.Range(speed - 1.5f, speed + 1.5f);
         }
     }
     

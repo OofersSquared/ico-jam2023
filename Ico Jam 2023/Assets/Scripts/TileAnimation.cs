@@ -25,7 +25,7 @@ public class TileAnimation : MonoBehaviour
             _index++;
             if (_index >= spritesAnimationList.Count)
                 _index = 0;
-            _timer = 1f / speed;
+            _timer = 1f / Random.Range(speed - 2f, speed);
         }
     }
 }
